@@ -1,0 +1,25 @@
+.dFlex{
+    display: flex;
+}
+.marginright{
+    margin-right: 40px;
+}
+.searchbar{
+    width: auto;
+    height: 30px;
+    
+}
+.loginbutton{
+    width: auto;
+    height: 30px;
+    
+}
+.nav{
+    background-color: silver;
+}
+.itemalign{
+align-items: center;
+}
+.border{
+    border: solid black 2px;
+}

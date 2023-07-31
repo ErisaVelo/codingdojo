@@ -1,0 +1,45 @@
+.dFlex{
+    display: flex;
+}
+
+
+h1{
+    text-align: center;
+}
+.container{
+    border-top: 2px solid black;
+    background-color: rgb(210, 200, 200);
+    padding-bottom: 20px;
+}
+
+.top{
+    background-color: aqua;
+    padding: 20px;
+    justify-content: space-between;
+    margin:20px;
+
+}
+
+.topIMG{
+    width: 200px;
+    height: auto;
+
+}
+.center{
+    background-color: rgb(219, 120, 196);
+    padding: 20px;
+    justify-content: space-around;
+    margin:20px;
+}
+
+.bottom{
+    background-color:white ;
+    padding:20px ;
+    justify-content: space-between;
+    margin: 20px;
+
+}
+footer{
+    text-align: center;
+    margin: 20px;
+}

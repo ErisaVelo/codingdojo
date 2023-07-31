@@ -1,0 +1,16 @@
+.dFlex{
+    display: flex;
+}
+.box{
+    border: 2px solid black;
+}
+.justifycontent{
+    justify-content: space-between;
+}
+#stylebuton{
+    border: 2px solid black;
+    color: black;
+    background-color: orange;
+    padding: 10px 10px;
+    margin: 5px;
+}

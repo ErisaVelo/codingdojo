@@ -1,0 +1,120 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.container{
+    background-color: silver;
+    height: auto;
+    padding: 10px 20px;
+}
+.content{
+    border: solid black 2.5px;
+height:auto;
+padding: 20px 30px;
+}
+.header{
+    border: solid blue 2px;
+    height: 150px;
+    padding: 20px 20px;   
+    align-items: center;
+    background-color: rgb(234, 222, 222);
+}
+.main{
+    border: solid blue 2px ;
+    height: auto ;
+    padding: 10px 20px;
+    
+}
+.footer{
+    border: solid blue 2px;
+    height: 150px;
+    
+}
+.margin-y{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.redbox{
+    border: red solid 2px;
+    height: 100px;
+    width: 20%;
+    background-color: white;
+}
+.biggerredbox{
+    border: red solid 2px;
+    height: 120px;
+    width: 50%;
+    background-color: white;
+}
+.dFlex{
+    display: flex;
+
+}
+.justify-between{
+    justify-content: space-between;
+
+}
+.bluebox{
+    border:2px solid black;
+    height: 80px;
+    background-color: rgb(166, 166, 202);
+    padding: 10px 20px ;
+}
+.greendiv{
+    border: 2px solid black;
+    height:70px;
+    width:30%;
+    background-color: rgb(147, 194, 147)
+
+}
+.justifycenter{
+    justify-content: center;
+}
+.rounded{
+    border-radius:  50%;
+}

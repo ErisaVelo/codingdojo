@@ -1,0 +1,197 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.container{
+    background-color:rgb(34, 34, 82);
+    width: 980px;
+    height: auto;
+    padding: 10px;
+    margin: auto;
+}
+.jamesconsulting{
+    font-size: 25px;
+    margin-left: 40px;
+    margin-right: 70px;
+    
+}
+.dFlex{
+    display: flex;
+}
+.bluetext{
+    color: rgb(24, 125, 233);
+}
+.navitem{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-left: 50px;
+
+}
+.whitetext{
+    color: white;
+
+}
+.justify-between{
+    justify-content: space-between;
+
+}
+.align_item{
+    align-items: center;
+}
+.name{
+    font-size: 30px;
+    margin-left: 40px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.whitebackground{
+    background-color: white;
+    padding: 5px;
+}
+.main_img{
+    width: 950px;
+    height: auto;
+    padding: 10px;
+}
+.box1{
+    background-color: rgb(52, 108, 168);
+    color: white;
+    width: 300px;
+    height: auto;
+    margin-left: 10px;
+    padding-left: 10px;
+
+}
+.firstboximg{
+    width: 30px;
+    height: auto;
+    margin-left: 5px;
+}
+.boxname{
+    font-size: larger;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.moreinfobutton{
+    color: white;
+    background-color:#06c8f0;
+    border: #06c8f0 2px solid;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 5px 20px;
+    width: auto;   
+}
+.marginleft{
+    margin-left: 25px;
+}
+.margintop{
+    margin-top: 10px;
+}
+.blacktext{
+    font-size: larger;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 190px;
+    margin-bottom: 20px;
+
+}
+.paragraph{
+    width: 300px;
+    height: auto;
+    font-size: smaller;
+    padding-left: 40px;
+    
+}
+.lightbluebox{
+    background-color: rgb(169, 209, 248);
+    color:rgb(75, 70, 70);
+    font: italic;
+    width: 100%;
+    height: auto;
+    padding: 40px;
+    margin-right: 10px;
+    width: 400px;
+
+}
+.footernav{
+    background-color: rgb(128, 214, 231);
+    color: rgb(70, 101, 126);
+    margin-right: 10px;
+    border-top: 0.5px solid black;
+    padding: 20px;
+    width: 96%;
+    
+}
+.lightbluetext{
+    color: rgb(104, 193, 235);
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 20px;
+
+}
+.buildingimg{
+    padding-right: 50px;
+    padding-left: 11px;
+}
+.link{
+    padding-left: 320px;
+    padding-bottom: 20px;
+}
+.name{
+    font-size: smaller;
+    
+}
+.ml{
+    margin-left: 40px;
+}

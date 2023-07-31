@@ -1,0 +1,37 @@
+.Search{
+    
+    box-sizing:border-box ;
+    background-color: rgb(244, 240, 240);
+    color: rgb(96, 218, 177);
+    border: 3px solid aquamarine;
+    border-radius: 20px;
+    width: 150px;
+    text-align: center;
+
+}
+.plus{
+color:white;
+background-color: aquamarine;
+border-radius: 50%;
+height: 20px;
+width: 20px;
+text-align: center;
+padding: 5px;
+font-size: 20px;
+font-weight: bolder;
+}
+
+.account{
+    background-color:rgb(38, 38, 226) ;
+    width: 200px;
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
+    color: white;
+    font-weight: 200;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+body{
+    margin: 40px;
+}
